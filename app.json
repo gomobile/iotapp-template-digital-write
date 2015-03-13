@@ -1,16 +1,20 @@
 {
-	"reponame":"iotapp-template-digital-write",
-	"title":"Digital Write",
-	"tooltip":"A simple node.js application intended to write data to Digital pins on the Intel based development boards such as the Intel(R) Galileo and Edison with Arduino breakout board.",
-	"description":"A simple node.js application intended to write data to Digital pins on the Intel based development boards such as the Intel(R) Galileo and Edison with Arduino breakout board.",
-	"articleurl":"https://software.intel.com/en-us/html5/articles/intel-xdk-iot-edition-nodejs-templates",
-    "screenshotUrl":"",
-    "iconUrl":"",
-	"highlights":[""],
-    "keywords":[""],
-	"visible": "true",
-	"apppreview":"false",
-	"appname":"demo.digitalwrite",
-	"relname":"4.0.0",
-	"projectTypeName": "com.intel.xdk.projecttype.iotapp"
+   "screenshotUrl" : "",
+   "visible" : "true",
+   "tooltip" : "A simple node.js application intended to write data to Digital pins on the Intel based development boards such as the Intel(R) Galileo and Edison with Arduino breakout board.",
+   "repoName" : "iotapp-template-digital-write",
+   "relName" : "4.0.0",
+   "title" : "Digital Write",
+   "appPreview" : "false",
+   "articleUrl" : "https://software.intel.com/en-us/html5/articles/intel-xdk-iot-edition-nodejs-templates",
+   "highlights" : [
+      ""
+   ],
+   "appName" : "demo.digitalwrite",
+   "iconUrl" : "",
+   "projectTypeName" : "com.intel.xdk.projecttype.iotapp",
+   "description" : "A simple node.js application intended to write data to Digital pins on the Intel based development boards such as the Intel(R) Galileo and Edison with Arduino breakout board.",
+   "keywords" : [
+      ""
+   ]
 }
