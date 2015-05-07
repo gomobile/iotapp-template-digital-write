@@ -16,6 +16,8 @@
       ""
    ],
    "appName" : "demo.digitalwrite",
+   "section" : "iot-templates",
+   "group" : "other",
    "visible" : true,
    "tooltip" : "A simple node.js application intended to write data to Digital pins on the Intel based development boards such as the Intel(R) Galileo and Edison with Arduino breakout board."
 }
