@@ -1,6 +1,5 @@
 Digital Pin Write App
 =====================
-
 See [LICENSE.md](LICENSE.md) for license terms and conditions.
 
 This sample application is distributed as part of the
@@ -14,9 +13,9 @@ Intel XDK, please start with
 
 App Overview
 ------------
-A simple node.js application intended to write data to Digital
-pins on the Intel based development boards such as the Intel(R)
-Galileo and Edison with Arduino breakout board.
+A simple Node.js application that writes to an onboard digital input
+(a GPIO input), on select Intel IoT development boards, and displays
+the written value on the console log.",
 
 Important Sample App Files
 --------------------------
