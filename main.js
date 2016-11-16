@@ -2,6 +2,8 @@
  * A simple Node.js application to write to a digital output.
  * Supported Intel IoT development boards are identified in the code.
  *
+ * See LICENSE.md for license terms and conditions.
+ *
  * https://software.intel.com/en-us/html5/articles/intel-xdk-iot-edition-nodejs-templates
  */
 
@@ -41,6 +43,8 @@ if( !cfg.init() ) {
 
 cfg.io = new cfg.mraa.Gpio(cfg.ioPin,cfg.ioOwner,cfg.ioRaw) ;
 cfg.io.dir(cfg.mraa.DIR_OUT) ;                  // configure the gpio pin as an output
+
+console.log("Using digital output pin number: " + cfg.ioPin) ;
 
 
 // now we are going to write the digital output at a periodic interval
