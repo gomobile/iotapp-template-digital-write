@@ -4,12 +4,12 @@
   "sample": false,
   "template": true,
   "visible" : true,
-  "sortWeight" : "0.0",
+  "sortWeight" : "0.8",
   "repoName" : "iotapp-template-digital-write",
   "tooltip" : "Write to a digital I/O pin.",
   "description" : "A simple Node.js application that writes to an onboard digital input (a GPIO input), on select Intel IoT development boards, and displays the written value on the console log.",
   "articleUrl" : "https://software.intel.com/en-us/xdk/docs/intel-xdk-iot-edition-nodejs-templates",
   "keywords" : ["mraa","digital i/o"],
-  "targets": ["edison","galileo"],
+  "targets": ["edison","galileo","joule"],
   "runtimes": ["node"]
 }
