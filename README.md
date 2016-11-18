@@ -1,5 +1,5 @@
-Intel® XDK IoT Node.js* Digital Pin Write App
-=============================================
+Intel® XDK IoT Node.js\* Digital Pin Write App
+==============================================
 See [LICENSE.md](LICENSE.md) for license terms and conditions.
 
 This sample application is distributed as part of the
