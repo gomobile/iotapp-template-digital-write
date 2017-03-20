@@ -1,6 +1,6 @@
 {
   "name": "xdk-iot-digital-write",
-  "description": "",
+  "description": "Intel XDK IoT Digital Pin Write App",
   "version": "0.0.0",
   "main": "main.js",
   "engines": {
